@@ -321,11 +321,11 @@ git push origin feature-name
 
 **Aditya Pandey**
 
-📧 Email: your-email@example.com
+📧 Email: your-aditya8960840182gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://linkedin.com/in/aditya-pandey63
 
-🐙 GitHub: https://github.com/yourusername
+🐙 GitHub: https://github.com/Aditya89608 
 
 ---
 
